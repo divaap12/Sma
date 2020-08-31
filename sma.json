@@ -1,22 +1,35 @@
 {
-	"sma":
+	"futsal":
 			[
 				{
 					"id":1,
-					"nama":"Hotel Harper Purwakarta",
-					"alamat":"Jl. Raya Bungursari No.122, Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",
-					"nomor_telp":"02648642888",
-					"kordinat":"-6.478927, 107.481261",
-					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/hotel_harper.jpeg"
+					"nama":"SMA NEGERI 2 PURWOKERTO",
+					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
+					"nomor_telp":"+62281628000",
+					"kordinat":"-7.417284, 109.244905",
+					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
+					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"jam":"Buka 24jam",
+					"kategori":"Kuliner",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
 				},
 
 				{
 					"id":2,
-					"nama":"Prime Plaza Hotel Purwakarta",
-					"alamat":"Kawasan Industri Kota Bukit Indah Blok L, Cinangka, Bungursari, Cinangka, Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",
-					"nomor_telp":"0264351888",
-					"kordinat":"-6.439420, 107.463123",
-					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/2.jpg"
+					"nama":"The President",
+					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+62281634321",
+					"kordinat":"-7.4155654, 109.236551",
+					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
+					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"jam":"Buka 24jam",
+					"kategori":"Kuliner",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
 				}
+				
+				
+				
 			]
 }
