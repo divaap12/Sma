@@ -4,29 +4,23 @@
 				{
 					"id":1,
 					"nama":"SMA NEGERI 2 PURWOKERTO",
-					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
-					"nomor_telp":"+62281628000",
-					"kordinat":"-7.417284, 109.244905",
-					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"jam":"Buka 24jam",
-					"kategori":"Kuliner",
+					"alamat":"Jl. Jend. Gatot Subroto No.69, Karangjengkol, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+62281635057",
+					"kordinat":"-7.4201702,109.2356467",
+					"gambar_url":"https://1.bp.blogspot.com/-BmwHZhqx6sQ/W3fSyuATsHI/AAAAAAAAQ8M/_trKRcpHA60lJqItO9pfyBmwAUTigkDlgCLcBGAs/w1200-h630-p-k-no-nu/Hexatography-Foto-Smada-Purwokerto-1.jpg",
 					"desc":"coba-coba",
-					"fasilitas":"Tidak ada keterangan"
+					"fasilitas":"Masjid, Lapangan, Kantin"
 				},
 
 				{
 					"id":2,
-					"nama":"The President",
-					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nama":"SMA NEGERI 1 PURWOKERTO",
+					"alamat":"Jl. Jend. Gatot Subroto No.73, Brubahan, Purwanegara, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53116",
 					"nomor_telp":"+62281634321",
-					"kordinat":"-7.4155654, 109.236551",
+					"kordinat":"-7.4213844,109.2347243",
 					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"jam":"Buka 24jam",
-					"kategori":"Kuliner",
 					"desc":"coba-coba",
-					"fasilitas":"Tidak ada keterangan"
+					"fasilitas":"Kantin"
 				}
 				
 				
