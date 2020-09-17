@@ -21,7 +21,73 @@
 					"gambar_url":"https://lh3.googleusercontent.com/proxy/eP4Y2foUuC_1PgGRIUJHyySVj92MEYrcXpaY1Mlf8G6h6wc-n-iFaZgj7PMKy2yDDZGf7-vQMNj3ZooJ_vEHHynvDTikCmsl0Coan6leHtwQ3K5eDMWHig",
 					"desc":"coba-coba",
 					"fasilitas":"Kantin"
-				}
+				},
+				
+				{
+					"id":3,
+					"nama":"SMA NEGERI 5 PURWOKERTO",
+					"alamat":"Jl. Gereja No.20, Karangjengkol, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"-",
+					"kordinat":"-7.4186476,109.233858",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Kantin"
+				},
+				
+				{
+					"id":4,
+					"nama":"SMA NEGERI 4 PURWOKERTO",
+					"alamat":"Jl. Overste Isdiman, Jatiwinangun, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53114",
+					"nomor_telp":"+62281636584",
+					"kordinat":"-7.4207924,109.2444063",
+					"gambar_url":"https://sma4purwokerto.sch.id/assets/img/content/1546476866.jpeg",
+					"desc":"coba-coba",
+					"fasilitas":"Kantin"
+				},
+				
+				{
+					"id":5,
+					"nama":"SMA NEGERI 3 PURWOKERTO",
+					"alamat":"Dusun I, Karangsalam Kidul, Kec. Kedungbanteng, Kabupaten Banyumas, Jawa Tengah 53152",
+					"nomor_telp":"+62281639710",
+					"kordinat":"-7.4099196,109.2116899",
+					"gambar_url":"https://smpn3-pwt.sch.id/po-content/uploads/3.jpg",
+					"desc":"coba-coba",
+					"fasilitas":"Kantin"
+				},
+				
+				{
+					"id":6,
+					"nama":"SMA Bruderan Purwokerto",
+					"alamat":"Sokanegara, Purwokerto Timur, Karangjengkol, Sokanegara, Banyumas, Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+62281636428",
+					"kordinat":"-7.4187193,109.2326185",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Kantin"
+				},
+				
+				{
+					"id":7,
+					"nama":"SMA Negeri 1 Baturraden",
+					"alamat":"Jalan Raya Rempoah Timur No.786, Dusun I, Rempoah, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+					"nomor_telp":"+62281681159",
+					"kordinat":"-7.3630252,109.2397336",
+					"gambar_url":"https://lh3.googleusercontent.com/proxy/qaAkeqA4bLPilqThRVme859IP0V5PtcP7hw40I3VrduYOdpWP9shIPcsVin_0-6ahSUAXhwEz0cEfesqJ5YQqOzFrQPRRxi8ta5ibxYqWRV-Vw",
+					"desc":"coba-coba",
+					"fasilitas":"Kantin"
+				},
+				
+				{
+					"id":8,
+					"nama":"SMA Muhammadiyah 1 Purwokerto",
+					"alamat":"Jl. Dr. Angka No.1, Karangjengkol, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+62281633373",
+					"kordinat":"-7.4155328,109.2315158",
+					"gambar_url":"https://smamuh1purwokerto.sch.id/upload/2018/10/SMA-MUH1-1024x576.jpg",
+					"desc":"coba-coba",
+					"fasilitas":"Kantin"
+				},
 				
 				
 				
